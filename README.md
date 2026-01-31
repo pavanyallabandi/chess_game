@@ -1,6 +1,9 @@
 # Python Chess Engine
 
 A fully functional Chess Engine built with Python and Pygame which can be manually played by two players. This project implements a complete chess ruleset including special moves, move validation, and game state management.
+<p align="center">
+  <img src="images/game_start.jpg" width="300">
+</p>
 
 ## Features
 
