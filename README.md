@@ -66,9 +66,9 @@ The game detects and displays the following end states:
 *   **Checkmate**:
     *   Occurs when the King is in check and has no legal moves to escape.
     *   **Visual**: The screen displays "White Wins by Checkmate" or "Black Wins by Checkmate".
-    <p align="center">
-  <img src="images/white_win.jpg" width="300">
-</p>
+  <p align="center">
+    <img src="images/white_win.jpg" width="300">
+  </p>
 *   **Stalemate**:
     *   Occurs when the King is **not** in check, but the player has no legal moves.
     *   **Visual**: The screen displays "Stalemate".
