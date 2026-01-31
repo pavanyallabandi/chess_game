@@ -1,6 +1,6 @@
 # Python Chess Engine
 
-A fully functional Chess Engine built with Python and Pygame. This project implements a complete chess ruleset including special moves, move validation, and game state management.
+A fully functional Chess Engine built with Python and Pygame which can be manually played by two players. This project implements a complete chess ruleset including special moves, move validation, and game state management.
 
 ## Features
 
@@ -63,6 +63,7 @@ The game detects and displays the following end states:
 *   **Checkmate**:
     *   Occurs when the King is in check and has no legal moves to escape.
     *   **Visual**: The screen displays "White Wins by Checkmate" or "Black Wins by Checkmate".
+     ![Alt text](images/whitewin,jpg)
 *   **Stalemate**:
     *   Occurs when the King is **not** in check, but the player has no legal moves.
     *   **Visual**: The screen displays "Stalemate".
